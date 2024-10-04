@@ -1,5 +1,4 @@
-# pMemeScrapper A.K.A. MemeUproot Tool Repository
-
+# MemeUproot A.K.A. pMemeScrapper✨
 Welcome to the Meme Templates Scrapper Repository! 🚀
 
 This project aims to be a **one-stop destination for all meme templates and memes scrapped right away**. The goal is to build a comprehensive collection that anyone can contribute to and use. We welcome contributors of all levels to help make this project even better! 🙌 
@@ -21,8 +20,6 @@ To Know How to use **`pMemeScrapper.js file`** Check this.
 > [!NOTE]
 > Please Update **`Data/memeTemplates/category.md file`** Documentation if You add more scrappings.
 
-## Thanks to Our Contributers
+---
 
-<a href="https://github.com/piyushpatelcodes/Meme-Uproot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=piyushpatelcodes/Meme-Uproot" />
-</a>
+Happy Scrapping! 🌟
